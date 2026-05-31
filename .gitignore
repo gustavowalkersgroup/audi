@@ -1,0 +1,28 @@
+# ROMs e binários — não versionar arquivos de ECU sem revisão deliberada
+maps/stock/*.bin
+maps/stock/*.hex
+maps/modified/*.bin
+maps/modified/*.hex
+*.rom
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Logs de datalog (podem ser grandes)
+*.csv
+*.log
+!tools/requirements.txt
+
+# Output de gráficos gerados
+*_3d.png
+comparison_*.png
+pull_*.png
+
+# OS
+.DS_Store
+Thumbs.db
