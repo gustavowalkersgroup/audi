@@ -13,6 +13,56 @@ origem mecânica (ATF velho, solenoides desgastados, corpo de válvulas sujo).
 
 ---
 
+## Por que mecânicos gerais recusam trocar o ATF — e o que fazer
+
+É muito comum oficinas gerais se recusarem a trocar ATF de câmbio com
+problema. A lógica deles: "o câmbio já está condenado, se eu trocar o ATF
+e piorar, fico com a culpa." Isso é proteção de responsabilidade, não
+diagnóstico técnico.
+
+**O que isso significa na prática:**
+- Um mecânico que diz "câmbio condenado" sem abrir e inspecionar fisicamente
+  está chutando. Os sintomas descritos (delay + 3→4 esticando) têm causas
+  muito específicas e tratáveis.
+- ATF limpo nunca piora um câmbio com solenoides ou corpo de válvulas sujos —
+  pelo contrário. A ideia de "ATF velho está vedando folgas" é um mito para
+  câmbios desse tipo.
+
+**O que fazer:**
+
+### Opção A: Fazer você mesmo (mais simples e eficaz)
+
+A troca parcial de ATF no 01M é um procedimento direto que qualquer pessoa
+com uma chave allen e um elevador ou rampa consegue fazer. Ver procedimento
+abaixo. Você não precisa de mecânico para isso.
+
+### Opção B: Especialista em câmbio automático (não mecânico geral)
+
+Procurar especificamente **retífica de câmbio automático** ou **especialista
+em câmbio VAG/Audi**. Essa categoria de profissional tem experiência real
+com o 01M e não vai recusar ATF por medo.
+
+O que pedir ao especialista:
+1. Diagnóstico via VAG-COM (leitura de falhas do módulo 02)
+2. Inspeção do corpo de válvulas
+3. Teste de pressão de linha (deve ser ≥5 bar em D com motor quente)
+4. Somente após diagnóstico: decidir entre limpeza/solenoides ou retífica
+
+**Custo estimado de um diagnóstico especializado:** R$ 150–300  
+**Custo de retífica completa do 01M:** R$ 2.000–4.000  
+**Câmbio 01M usado em bom estado (sucata):** R$ 800–1.500  
+
+### Decisão
+
+Se o diagnóstico mostrar:
+- Solenoides ruins → R$ 400–600 de peças, resolve
+- Corpo de válvulas sujo → R$ 200–400 de mão de obra + limpeza
+- Embreagens gastas → retífica ou câmbio usado (avaliar custo-benefício)
+
+**Não "condene" o câmbio sem um diagnóstico real via VAG-COM + inspeção física.**
+
+---
+
 ## Diagnóstico inicial (via VAG-COM)
 
 ```
